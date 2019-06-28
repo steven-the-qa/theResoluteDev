@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/theResoluteDev/static/css/main.d768bc1e.chunk.css",
-    "main.js": "/theResoluteDev/static/js/main.e7329de2.chunk.js",
-    "main.js.map": "/theResoluteDev/static/js/main.e7329de2.chunk.js.map",
+    "main.js": "/theResoluteDev/static/js/main.bdb75001.chunk.js",
+    "main.js.map": "/theResoluteDev/static/js/main.bdb75001.chunk.js.map",
     "runtime~main.js": "/theResoluteDev/static/js/runtime~main.0444cb79.js",
     "runtime~main.js.map": "/theResoluteDev/static/js/runtime~main.0444cb79.js.map",
     "static/js/2.3e150016.chunk.js": "/theResoluteDev/static/js/2.3e150016.chunk.js",
     "static/js/2.3e150016.chunk.js.map": "/theResoluteDev/static/js/2.3e150016.chunk.js.map",
     "index.html": "/theResoluteDev/index.html",
-    "precache-manifest.5d4af7fe2c83a977eb6013855226fff2.js": "/theResoluteDev/precache-manifest.5d4af7fe2c83a977eb6013855226fff2.js",
+    "precache-manifest.4b0da31583218e32fa6b035a9f2e807b.js": "/theResoluteDev/precache-manifest.4b0da31583218e32fa6b035a9f2e807b.js",
     "service-worker.js": "/theResoluteDev/service-worker.js",
     "static/css/main.d768bc1e.chunk.css.map": "/theResoluteDev/static/css/main.d768bc1e.chunk.css.map"
   }
