@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "876463c7f4a7acf2eeb0c63f0b5a4574",
+    "revision": "5dfe624784c0d5b8deddcb865907e5f8",
     "url": "/theResoluteDev/index.html"
   },
   {
-    "revision": "c2724d62a5cc4b3b085a",
+    "revision": "14b4b339694ca5ed5330",
     "url": "/theResoluteDev/static/css/main.9f71d8fd.chunk.css"
   },
   {
-    "revision": "e10348e444ed2d7186da",
-    "url": "/theResoluteDev/static/js/2.9b69ca45.chunk.js"
+    "revision": "f47bf402682477c4b4db",
+    "url": "/theResoluteDev/static/js/2.53b9c4f7.chunk.js"
   },
   {
-    "revision": "c2724d62a5cc4b3b085a",
-    "url": "/theResoluteDev/static/js/main.5b91a34b.chunk.js"
+    "revision": "14b4b339694ca5ed5330",
+    "url": "/theResoluteDev/static/js/main.2f7d52fe.chunk.js"
   },
   {
     "revision": "d14240b9412828c8003a",
